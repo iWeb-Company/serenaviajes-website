@@ -1,7 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-body{
-    background-color: var(--creamBg);
+@layer base {
+  :root {
+    --radius: 0.5rem
+  }
 }
+
