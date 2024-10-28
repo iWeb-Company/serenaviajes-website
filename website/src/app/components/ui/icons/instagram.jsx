@@ -1,4 +1,4 @@
-export default function Whatsapp () {
+export default function Instagram () {
     return (
         <svg width="48" height="48" viewBox="0 0 49 49" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M35.8429 2.06786H12.4072C6.69693 2.06786 2.06787 6.69691 2.06787 12.4071V35.8429C2.06787 41.5531 6.69693 46.1821 12.4072 46.1821H35.8429C41.5531 46.1821 46.1822 41.5531 46.1822 35.8429V12.4071C46.1822 6.69691 41.5531 2.06786 35.8429 2.06786Z" fill="url(#paint0_radial_3_18)"/>
